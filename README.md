@@ -14,9 +14,9 @@ I enjoy turning complex problems into efficient solutions and communicating them
 
 ---
 
-## 🎯 Not only work…
+## 🕺 Not only work…
 
-I also enjoy **building fun and random projects** in my spare time, such as:
+Besides my amateur musician career, I also enjoy **building fun and random projects** in my spare time, such as:
 
 - board game simulators  
 - Telegram bots for everyday tasks  
@@ -27,4 +27,4 @@ I also enjoy **building fun and random projects** in my spare time, such as:
 ## 📫 Connect with me
 
 - GitHub: [piermarcosaraceno](https://github.com/saracenopiermarco)  
-- Email: piermaroc7@gmail.com
+- Email: piermarco7@gmail.com
