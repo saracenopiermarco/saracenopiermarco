@@ -26,5 +26,5 @@ Besides my amateur musician career, I also enjoy **building fun and random proje
 
 ## 📫 Connect with me
 
-- GitHub: [piermarcosaraceno](https://github.com/saracenopiermarco)  
+- GitHub: [saracenopiermarco](https://github.com/saracenopiermarco)  
 - Email: piermarco7@gmail.com
