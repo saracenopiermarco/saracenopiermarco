@@ -18,13 +18,15 @@ I enjoy turning complex problems into efficient solutions and communicating them
 
 Besides my computational chemist carreer and especially besides my amateur musician career, I also enjoy **building fun and random projects** in my spare time, such as:
 
-🎲 **board‑game simulators**
-            - **for example:** a collaborative project with my friend and colleague **Ivan Gianni**, where we implemented the full rule engine of *The Game* and generated a supervised training set to teach a PyTorch score‑based decision-making Machine Learning model.                  Repo: https://github.com/i-gianni/Tegame/tree/main  
+🤖 Telegram bots for everyday tasks
 
-🤖 Telegram bots for everyday tasks  
+🧪 other small computational chemistry projects
 
-🧪 other computational chemistry projects developed during my master degree
+🎲 other very **random** things
+            - **for example:** a collaborative project with my friend and colleague **Ivan Gianni**, where we implemented the full rule engine of the board game *The Game* and generated a supervised training set to teach a PyTorch score‑based decision-making Machine Learning model.                  Repo: https://github.com/i-gianni/Tegame/tree/main  
 
+
+other very random things
 ---
 
 ## 📫 Connect with me
