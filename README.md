@@ -18,11 +18,11 @@ I enjoy turning complex problems into efficient solutions and communicating them
 
 Besides my amateur musician career, I also enjoy **building fun and random projects** in my spare time, such as:
 
-- board‑game simulators  
-  for example, a collaborative project with my friend and colleague **Ivan Giannì**, where we implemented the full rule engine of *The Game* and generated a supervised training set to teach a PyTorch score‑based Machine Learning model.
-  Repo: https://github.com/i-gianni/Tegame/tree/main  
-- Telegram bots for everyday tasks  
-- other small creative programming experiments  
+🎲 **board‑game simulators**
+    - **for example:** a collaborative project with my friend and colleague **Ivan Gianni**, where we implemented the full rule engine of *The Game* and generated a supervised training set to teach a PyTorch score‑based model to play the game purely by observing strong moves — no hard‑coded rules, just learned strategy.  
+      Repo: https://github.com/i-gianni/Tegame/tree/main  
+🤖 Telegram bots for everyday tasks  
+🧪 other small creative programming experiments  
 
 ---
 
