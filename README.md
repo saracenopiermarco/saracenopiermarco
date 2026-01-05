@@ -23,7 +23,7 @@ Besides my computational chemist carreer and especially besides my amateur music
 🧪 other small computational chemistry projects
 
 🎲 other very **random** things
-            - **for example:** a collaborative project with my friend and colleague **Ivan Gianni**, where we implemented the full rule engine of the board game *The Game* and generated a supervised training set to teach a PyTorch score‑based decision-making Machine Learning model.                  Repo: https://github.com/i-gianni/Tegame/tree/main  
+            - **for example:** a collaborative project with my friend and colleague **Ivan Giannì**, where we implemented the full rule engine of the board game *The Game* and generated a supervised training set to teach a PyTorch score‑based decision-making Machine Learning model.                  Repo: https://github.com/i-gianni/Tegame/tree/main  
 
 
 other very random things
