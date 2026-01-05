@@ -16,7 +16,7 @@ I enjoy turning complex problems into efficient solutions and communicating them
 
 ## 🕺 Not only work…
 
-Besides my amateur musician career, I also enjoy **building fun and random projects** in my spare time, such as:
+Besides my computational chemist carreer and especially besides my amateur musician career, I also enjoy **building fun and random projects** in my spare time, such as:
 
 🎲 **board‑game simulators**
             - **for example:** a collaborative project with my friend and colleague **Ivan Gianni**, where we implemented the full rule engine of *The Game* and generated a supervised training set to teach a PyTorch score‑based decision-making Machine Learning model.                  Repo: https://github.com/i-gianni/Tegame/tree/main  
