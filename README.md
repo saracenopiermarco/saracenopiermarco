@@ -23,7 +23,7 @@ Besides my amateur musician career, I also enjoy **building fun and random proje
 
 🤖 Telegram bots for everyday tasks  
 
-🧪 other computational chemistry codes developed during my master degree
+🧪 other computational chemistry projects developed during my master degree
 
 ---
 
